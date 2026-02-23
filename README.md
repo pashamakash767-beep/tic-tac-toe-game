@@ -27,3 +27,5 @@ Dynamic updates without page reloads.
 Clear user experience with result display and restart option.
 
 This project demonstrates my ability to combine frontend development skills with game logic implementation, as well as writing clean, modular, and interactive JavaScript code.
+ play tic tac toe game link here 
+ https://tictactoeapp.tiiny.site/
